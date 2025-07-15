@@ -8,3 +8,5 @@ Stack: React, Typescript, @mui, testing-library
 
 1. yarn install
 2. yarn dev
+
+App link - https://faraway-test-task.vercel.app/
