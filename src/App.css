@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background: #fff;
+  color: #222;
+}
+
+.MuiContainer-root {
+  background: transparent;
+}
+
+.MuiCard-root {
+  background: #fff;
+  color: #222;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.MuiTypography-root {
+  color: #222;
+}
+
+.MuiPaper-root {
+  background: #fff;
+  color: #222;
+}
+
+input, .MuiInputBase-root, .MuiOutlinedInput-root {
+  background: #fff;
+  color: #222;
+}
+
+.MuiPagination-root {
+  color: #222;
+}
